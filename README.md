@@ -31,7 +31,7 @@ The dataset contains information related to:
 - Calendar Data
 Data was cleaned and transformed using Power Query before being loaded into the Power BI data model.
 
-## Dashboard Features
+## Dashboard Features:
 
 ### Topline Performance Dashboard
 - Total Revenue
@@ -39,6 +39,22 @@ Data was cleaned and transformed using Power Query before being loaded into the 
 - Total Transactions
 - Profit Margin
 - Revenue Trend Analysis
+
+### Product Analysis
+- Top Selling Products
+- Brand Performance
+- Product Return Rates
+
+### Customer Analysis
+- Customer Segmentation
+- Purchase Trends
+- Regional Buying Patterns
+
+### Store Performance
+- Revenue by Store
+- Revenue by Region
+- Operational Insights
+
 
 ## Key DAX Measures
 - Total Revenue
