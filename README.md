@@ -68,3 +68,5 @@ Monthly sales patterns indicated periods of increased customer activity, helping
 
 ## Conclusion
 This project demonstrates end-to-end business intelligence development using Power BI, including data preparation, modeling, DAX calculations, and dashboard design to support data-driven decision making.
+
+### source: udemy bonus project
