@@ -2,7 +2,7 @@
 ## SuperMarket
 
 ## Overview
-This Power BI project analyzes sales, profit, customer behavior, and product performance for 'Super Market', a multinational grocery retail chain operating across Canada, Mexico, and the United States.
+This is a dedicated Power BI project. Analyzed sales, profit, customer behavior, and product performance for 'Super Market', a multinational grocery retail chain operating across Canada, Mexico, and the United States.
 
 The dashboard transforms raw business data into actionable insights using Power Query, data modeling, DAX measures, and interactive visualizations.
 
