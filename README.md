@@ -2,7 +2,7 @@
 
 ## Introduction
 'Super Market' is a multinational grocery retail chain operating across Canada, Mexico, and the United States.
-The task was mainly centered around analyzing sales, profit, customer behavior, and product performance and dashboarding. 
+The task is mainly centered around analyzing sales, profit, customer behavior, and product performance and dashboarding. 
 
 ## Activities:
 - Monitor overall sales and profitability
