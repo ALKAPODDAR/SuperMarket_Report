@@ -41,19 +41,19 @@ The dataset contains information related to:
 
 ## Key Insights:
 **1. The United States generated the highest overall revenue**
-The U.S. market consistently outperformed Canada and Mexico in both transaction volume and total sales, making it the primary contributor to company revenue.
+- The U.S. market consistently outperformed Canada and Mexico in both transaction volume and total sales, making it the primary contributor to company revenue.
 
 **2. A small number of products drove a large share of total sales**
-Sales analysis revealed that a limited set of high-demand products accounted for a significant portion of overall revenue, indicating opportunities for targeted inventory and marketing strategies.
+- Sales analysis revealed that a limited set of high-demand products accounted for a significant portion of overall revenue, indicating opportunities for targeted inventory and marketing strategies.
 
 **3. Product returns were concentrated in specific categories**
-Certain product categories experienced noticeably higher return rates than others, suggesting potential issues related to product quality, customer expectations, or purchasing behavior.
+- Certain product categories experienced noticeably higher return rates than others, suggesting potential issues related to product quality, customer expectations, or purchasing behavior.
 
 **4. Revenue performance varied across store locations**
-Store-level analysis showed considerable differences in sales performance, highlighting the impact of regional demand, customer demographics, and operational efficiency.
+- Store-level analysis showed considerable differences in sales performance, highlighting the impact of regional demand, customer demographics, and operational efficiency.
 
 **5. Revenue exhibited clear seasonal trends**
-Monthly sales patterns indicated periods of increased customer activity, helping identify peak seasons that can inform future inventory planning and promotional campaigns.
+- Monthly sales patterns indicated periods of increased customer activity, helping identify peak seasons that can inform future inventory planning and promotional campaigns.
 
 
 Learned:
