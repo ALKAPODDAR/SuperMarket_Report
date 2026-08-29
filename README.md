@@ -22,20 +22,20 @@ The dataset contains information related to:
 
 ## Dashboard Features:
 
-**Topline Performance Dashboard**
+**1. Topline Performance Dashboard**
 - Total Revenue, Total Profit, Total Transactions, Profit Margin, Revenue Trend Analysis
 
-**Product Analysis**
+**2. Product Analysis**
 - Top Selling Products, Brand Performance, Product Return Rates
 
-**Customer Analysis**
+**3. Customer Analysis**
 - Customer Segmentation, Purchase Trends, Regional Buying Patterns
 
-**Store Performance**
+**3. Store Performance**
 - Revenue by Store, Revenue by Region, Operational Insights
 
 
-## Key DAX Measures
+## DAX measures calculated:
 - Total Revenue, Total Profit, Profit Margin %, Total Transactions, Return Rate %, Average Revenue per Customer
 
 
