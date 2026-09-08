@@ -1,4 +1,4 @@
-# Sales Analysis Dashboard - SuperMarket
+## Sales Analysis Dashboard - SuperMarket
 
 ## Introduction
 'Super Market' is a multinational grocery retail chain operating across Canada, Mexico, and the United States.
